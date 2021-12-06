@@ -45,11 +45,11 @@
         </mxGraphModel>
     </diagram>
     <diagram id="xOAGfqH_O2BxB7WSWpyA" name="Cat_Tomcat_1">
-        <mxGraphModel dx="1885" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1540" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="gHyOYwD4HLIfxDC-johf-0"/>
                 <mxCell id="gHyOYwD4HLIfxDC-johf-1" parent="gHyOYwD4HLIfxDC-johf-0"/>
-                <mxCell id="gHyOYwD4HLIfxDC-johf-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SuperCat&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- name: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- furColor: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# age: int&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ getStringAttributes(String): String&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="gHyOYwD4HLIfxDC-johf-1" vertex="1">
+                <mxCell id="gHyOYwD4HLIfxDC-johf-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SuperCat&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- name: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- furColor: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# age: int&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;# getStringAttributes(String): String&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="gHyOYwD4HLIfxDC-johf-1" vertex="1">
                     <mxGeometry x="30" y="160" width="220" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="gHyOYwD4HLIfxDC-johf-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Tomcat&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ getAge(): String&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="gHyOYwD4HLIfxDC-johf-1" vertex="1">
@@ -72,6 +72,59 @@
                         <mxPoint x="160" y="400" as="sourcePoint"/>
                         <mxPoint x="320" y="400" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="ceVWwHF3UjgRaNPGj9-t" name="Page-5">
+        <mxGraphModel dx="1795" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="8wpO7OsD02wmBqD2wFnk-0"/>
+                <mxCell id="8wpO7OsD02wmBqD2wFnk-1" parent="8wpO7OsD02wmBqD2wFnk-0"/>
+                <mxCell id="DfU35sb7SfNSeee9eKY2-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SubClass&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(type): type&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="8wpO7OsD02wmBqD2wFnk-1">
+                    <mxGeometry x="-50" y="290" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="DfU35sb7SfNSeee9eKY2-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SubClass&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field type&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(type): type&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="8wpO7OsD02wmBqD2wFnk-1">
+                    <mxGeometry x="250" y="290" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="DfU35sb7SfNSeee9eKY2-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SubClass&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field type&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(type): type&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="8wpO7OsD02wmBqD2wFnk-1">
+                    <mxGeometry x="530" y="290" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="DfU35sb7SfNSeee9eKY2-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SuperClass&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(type): type&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="8wpO7OsD02wmBqD2wFnk-1">
+                    <mxGeometry x="194" y="50" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="u57tcaylMzxHPnLVk4xa-0" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.422;exitY=-0.037;exitDx=0;exitDy=0;entryX=0.072;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="8wpO7OsD02wmBqD2wFnk-1" source="DfU35sb7SfNSeee9eKY2-0" target="DfU35sb7SfNSeee9eKY2-3">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="50" y="290" as="sourcePoint"/>
+                        <mxPoint x="116.8599999999999" y="134.20000000000005" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="90" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u57tcaylMzxHPnLVk4xa-1" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.441;exitY=-0.032;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="8wpO7OsD02wmBqD2wFnk-1" source="DfU35sb7SfNSeee9eKY2-2" target="DfU35sb7SfNSeee9eKY2-3">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="510" y="305.8" as="sourcePoint"/>
+                        <mxPoint x="576.8599999999999" y="150.00000000000006" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="550" y="215.8"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u57tcaylMzxHPnLVk4xa-2" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.365;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.321;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8wpO7OsD02wmBqD2wFnk-1" source="DfU35sb7SfNSeee9eKY2-1" target="DfU35sb7SfNSeee9eKY2-3">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="290" y="315.8" as="sourcePoint"/>
+                        <mxPoint x="356.8599999999999" y="160.00000000000006" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="330" y="225.8"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u57tcaylMzxHPnLVk4xa-5" style="edgeStyle=none;html=1;" edge="1" parent="8wpO7OsD02wmBqD2wFnk-1" source="u57tcaylMzxHPnLVk4xa-3" target="DfU35sb7SfNSeee9eKY2-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="u57tcaylMzxHPnLVk4xa-3" value="Es gibt immer nur eine SuperClass. Mehrer sind NICHT mögtlich!!!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="8wpO7OsD02wmBqD2wFnk-1">
+                    <mxGeometry x="435" y="110" width="370" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
