@@ -12,11 +12,8 @@ public class Cat {
         this.name = name;
         this.furColor = furColor;
         this.age = age;
-<<<<<<< HEAD
-=======
-       
-        
->>>>>>> d2f5897ebc2ab355f9877918379ee2a01b77bb95
+
+    
     }
 
     public String getStringAttributes(String flag){
@@ -31,14 +28,10 @@ public class Cat {
     }
 
     public String getAge(){
-<<<<<<< HEAD
+
         return checkEscalationLevel();
     }
-=======
-  return checkEscalationLevel();
-        }   
-    
->>>>>>> d2f5897ebc2ab355f9877918379ee2a01b77bb95
+
 
     private String checkEscalationLevel(){
 
