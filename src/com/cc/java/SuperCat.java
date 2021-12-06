@@ -2,7 +2,7 @@ package com.cc.java;
 
 public class SuperCat {
     
-    private String name;
+    protected String name;
     private String furColor;
     protected int age;
 
