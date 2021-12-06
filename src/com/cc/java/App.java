@@ -14,6 +14,9 @@ public class App {
         output("Alter: " + cat.getAge());
         output("Alter: " + cat.getAge());
 
+        cat.
+
+
         output("------------------------");
 
         Tomcat tomcat = new Tomcat("Alonzo", "black", 35); // Klasse --> Objekt / Instanz
